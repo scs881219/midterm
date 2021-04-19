@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">midterm</string>
+    <string name="title">410721318</string>
+    <string name="input">Number1</string>
+    <string name="output">Result</string>
+    <string name="input2">Number2</string>
+    <string name="todo">TODO</string>
+    <string name="button">+</string>
+    <string name="button2">-</string>
+    <string name="button3">×</string>
+    <string name="button4">÷</string>
+</resources>
